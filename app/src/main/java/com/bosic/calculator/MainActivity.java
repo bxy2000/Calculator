@@ -10,6 +10,9 @@ import android.widget.Toast;
 import org.javia.arity.Symbols;
 import org.javia.arity.SyntaxException;
 
+/**
+ * 计算器
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
