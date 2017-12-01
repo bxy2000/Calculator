@@ -5,6 +5,7 @@
     <color name="colorAccent">#FF4081</color>
     <color name="colorAppBG">#FF4B5459</color>
     <color name="colorDigitalBtnNormal">#D0DCE3</color>
+    <color name="colorDisplayText">#FFFFFFFF</color>
     <color name="colorDigitalBtnPressed">#BED1DB</color>
     <color name="colorSymbolLightBtnNormal">#BED1DB</color>
     <color name="colorSymbolLightBtnPressed">#66A1B4</color>
